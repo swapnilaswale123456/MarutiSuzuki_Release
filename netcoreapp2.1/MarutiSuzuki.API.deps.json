@@ -709,6 +709,7 @@
       },
       "MarutiSuzuki.Audit.Model/1.0.0": {
         "dependencies": {
+          "MarutiSuzuki.Audit.Entity": "1.0.0",
           "Newtonsoft.Json": "11.0.2"
         },
         "runtime": {
