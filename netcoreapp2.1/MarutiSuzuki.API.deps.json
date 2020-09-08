@@ -727,6 +727,7 @@
       "MarutiSuzuki.Audit.Data/1.0.0": {
         "dependencies": {
           "MarutiSuzuki.Audit.Entity": "1.0.0",
+          "MarutiSuzuki.Audit.Model": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.1.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1"
         },
